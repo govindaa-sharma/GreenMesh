@@ -209,7 +209,7 @@ This will make the project demonstrate self-evolving AI collaboration in real-ti
 🧑‍💻 Contributors
 Name	Role
 Govinda Sharma	AI Systems Engineer, Multi-Agent Designer
-Teammate	Planner & Backend Integration
+Sanchari Dey	Planner & Backend Integration
 🏁 License
 
 This project is licensed under the MIT License — free for educational and research use.
