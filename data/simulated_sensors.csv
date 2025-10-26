@@ -1,0 +1,7 @@
+timestamp,sensor_id,sensor_type,location,value
+2025-10-25T10:00:00Z,ws_01,water_level,zoneA,1.0
+2025-10-25T10:01:00Z,ws_01,water_level,zoneA,2.1
+2025-10-25T10:02:00Z,ws_01,water_level,zoneA,2.8
+2025-10-25T10:03:00Z,ws_02,garbage_level,zoneB,85
+2025-10-25T10:04:00Z,ws_02,garbage_level,zoneB,96
+2025-10-25T10:05:00Z,ws_03,water_level,zoneC,1.0
